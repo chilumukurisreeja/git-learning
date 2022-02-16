@@ -1,2 +1,2 @@
 # git-learning
-This is learn to Git
+This is learn to Git which is helpful for beginers
